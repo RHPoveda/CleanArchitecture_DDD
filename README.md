@@ -1,4 +1,4 @@
 # CLEAN ARCHITECTURE & DOMAIN DRIVEN DESING
 
 ## TO EXECUTE
-"""dotnet run --project src/CleanArchitecture/CleanArchitecture.Api"""
+_dotnet run --project src/CleanArchitecture/CleanArchitecture.Api_
